@@ -1,16 +1,16 @@
-📊 Multiple Linear Regression
-This folder contains a Python implementation of Multiple Linear Regression, which models the relationship between multiple independent variables and a dependent variable.
+# 📊 Multiple Linear Regression
 
-🛠️ Contents
-Python script for the Multiple Linear Regression model
-Example dataset for practice
-Visualization of the regression plane
+This folder contains a Python implementation of **Multiple Linear Regression**, which models the relationship between multiple independent variables and a dependent variable.
 
-🚀 Requirements
-Ensure you have the following Python libraries installed:
+---
 
-bash
-Copy code
+## 🛠️ Contents  
+- Python script for the Multiple Linear Regression model  
+- Example dataset for practice  
+
+---
+
+## 🚀 Requirements  
+Ensure you have the following Python libraries installed:  
+```bash
 pip install numpy pandas matplotlib scikit-learn
-📥 Usage
-Run the Python script in this folder to train and visualize the model on the example dataset.
