@@ -4,7 +4,7 @@ Polynomial Regression is a type of regression analysis that models the relations
 
 ---
 
-## 🔍 What This Repository Includes  
+## 🔍 What This Folder Includes  
 - Implementation of Polynomial Regression in Python  
 - Visualization of the regression curve  
 
