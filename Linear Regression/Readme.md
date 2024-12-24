@@ -4,7 +4,7 @@ Linear Regression is one of the simplest and most widely used machine learning m
 
 ---
 
-## 🔍 What This Repository Includes  
+## 🔍 What This folder Includes  
 - Implementation of Linear Regression in Python  
 - Visualization of the regression line  
 - Example dataset for practice  
